@@ -1,0 +1,34 @@
+{
+  "name": "@frontle/z-index-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "module": "./",
+  "description": "Finds the highest z-index value",
+  "keywords": [
+    "zIndexManager",
+    "z-index",
+    "z-index-manager",
+    "browser",
+    "android",
+    "ios",
+    "cordova",
+    "electron",
+    "frontle"
+  ],
+  "author": "Yun HyeongJun <y37653@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frontle-Foundation/zIndexManager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Frontle-Foundation/zIndexManager/issues"
+  },
+  "homepage": "https://github.com/Frontle-Foundation/zIndexManager#readme",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "dependencies": {}
+}
