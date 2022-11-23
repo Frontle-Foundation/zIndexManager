@@ -16,7 +16,7 @@ console.log(findHighestZIndex('body')); // 1
 **Frontle**
 
 ```shell
-frontle install @frontle/z-index-manager --notBuild
+frontle install @frontle/z-index-manager --noBuild
 ```
 
 **Download files**

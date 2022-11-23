@@ -1,6 +1,6 @@
 {
   "name": "@frontle/z-index-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "module": "./",
   "description": "Finds the highest z-index value",
@@ -15,7 +15,7 @@
     "electron",
     "frontle"
   ],
-  "author": "Yun HyeongJun <y37653@gmail.com>",
+  "author": "Yun Hyeongjun <y37653@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
