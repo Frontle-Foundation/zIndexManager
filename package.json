@@ -1,6 +1,6 @@
 {
   "name": "@frontle/z-index-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "module": "./",
   "description": "Finds the highest z-index value",
@@ -8,6 +8,8 @@
     "zIndexManager",
     "z-index",
     "z-index-manager",
+    "vanilla",
+    "javascript",
     "browser",
     "android",
     "ios",
